@@ -26,6 +26,7 @@ https://www.kaggle.com/datasets/irkal123narayan456/realwaste-dataset?resource=do
 - **Classes**: 
   - `Cardboard` (e.g., food waste, leaves)
   - `Food Organics` (e.g., plastic bottles, paper)
+  - `Glass` (e.g.,  bottles)
   - `Metal` (e.g., batteries, chemicals)
   - `Miscellaneous Trash` (e.g., batteries, chemicals)
   - `Paper` (e.g., batteries, chemicals)
