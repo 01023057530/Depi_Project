@@ -1,4 +1,6 @@
-# Depi_Project
+# Depi_Project 
+# presentation via link: 
+https://www.canva.com/design/DAGkh9gJ3kA/sjDrfkDbJhrGhWVzPZxMrQ/edit?utm_content=DAGkh9gJ3kA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # 🗑️ Garbage Detection and Classification using YOLO
 
@@ -48,4 +50,8 @@ data/
 
 ├── labels/
     ├── train/
+
+
+
+    
     └── val/
