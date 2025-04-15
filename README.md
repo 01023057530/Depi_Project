@@ -27,13 +27,13 @@ https://www.kaggle.com/datasets/irkal123narayan456/realwaste-dataset?resource=do
   - `Cardboard` (e.g., food waste, leaves)
   - `Food Organics` (e.g., plastic bottles, paper)
   - `Glass` (e.g.,  bottles)
-  - `Metal` (e.g., batteries, chemicals)
-  - `Miscellaneous Trash` (e.g., batteries, chemicals)
-  - `Paper` (e.g., batteries, chemicals)
-  - `Plastic` (e.g., batteries, chemicals)
-  - `Textile Trash` (e.g., batteries, chemicals)
-  - `Vegetation` (e.g., batteries, chemicals)
-  
+  - `Metal` (e.g., cans, aluminum foil)
+  - `Miscellaneous Trash` (e.g., broken toys, ceramics)
+  - `Paper` (e.g., newspapers, cardboard)
+  - `Plastic` (e.g., bottles, food containers)
+  - `Textile Trash` (e.g., old clothes, fabric scraps)
+  - `Vegetation` (e.g., leaves, grass clippings)
+
  
 
 ---
